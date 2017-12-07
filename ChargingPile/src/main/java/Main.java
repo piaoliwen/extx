@@ -17,8 +17,8 @@ public class Main {
 		System.out.println("charging");
 		System.out.println("charging");
 		System.out.println("charging");	System.out.println("charging");
-
-		System
+fdsa
+		System、
 		syfdshaiodf
 	}
 
