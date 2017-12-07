@@ -19,6 +19,7 @@ public class Main {
 		System.out.println("charging");	System.out.println("charging");
 
 		System
+		syfdshaiodf
 	}
 
 }
