@@ -12,14 +12,7 @@ public class Main {
 		Log.info(Log.getName()+"@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@");
 	    NettyThread nt= new NettyThread();
 		nt.start();
-		System.out.println("charging");
-		System.out.println("charging");
-		System.out.println("charging");
-		System.out.println("charging");
-		System.out.println("charging");	System.out.println("charging");
-fdsa
-		System、
-		syfdshaiodf
+
 	}
 
 }
